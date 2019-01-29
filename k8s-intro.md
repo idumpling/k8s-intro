@@ -2,7 +2,7 @@
 title: Intro to Kubernetes
 author:
   name: Xin Gao
-output: k8s-intro.html
+output: index.html
 theme: jdan/cleaver-retro
 
 ------------------------------------------------------------------------------
