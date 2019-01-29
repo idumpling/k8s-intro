@@ -1,2 +1,12 @@
-# k8s-intro
-Slides for introduction to Kubernetes I gave http://idumpling.github.io/k8s-intro
+## Introduction to Kubernetes
+
+These are the slides for a talk on Kubernetes.
+
+You can [view it here](http://idumpling.github.io/k8s-intro).
+
+This presentation (html file) was generated using [Cleaver](http://jdan.github.io/cleaver).
+
+    $ npm install -g cleaver   
+    $ cleaver k8s-intro.md   
+    # open html file "k8s-intro.html" with web browser
+
