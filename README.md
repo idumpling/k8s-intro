@@ -8,5 +8,5 @@ This presentation (html file) was generated using [Cleaver](http://jdan.github.i
 
     $ npm install -g cleaver   
     $ cleaver k8s-intro.md   
-    # open html file "k8s-intro.html" with web browser
+    # open html file "index.html" with web browser
 
